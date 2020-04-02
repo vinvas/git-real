@@ -1,1 +1,2 @@
-THis is Read me file
+THis is Read me file.
+Modifying README file.
